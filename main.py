@@ -19,6 +19,10 @@ the toenails feel even worse by comparison. The line stays clean, with
 no shock language and no em dash, so the disgust comes from the idea
 itself rather than from crude wording.
 
+Revision note: after the first draft the entry was run locally and the
+output file was checked byte for byte against the winning line, with no
+trailing newline, so the program below ships exactly the line above.
+
 Running this program writes exactly that one line to entry.txt.
 """
 
